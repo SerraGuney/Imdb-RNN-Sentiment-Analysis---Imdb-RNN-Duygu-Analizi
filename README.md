@@ -64,14 +64,14 @@ classification_report (precision, recall, f1-score)
 
 Aşağıda modelin ROC eğrisi gösterilmektedir:
 
-![ROC Curve](roc_curve.png)
+<img src="roc_curve.png" width="450">
 
 Kod ROC eğrisini otomatik çizer.
 
 ## ** Gerekli Kütüphaneler**
-tensorflow
-numpy
-matplotlib
-scikit-learn
+tensorflow,
+numpy,
+matplotlib,
+scikit-learn,
 keras-tuner
 
